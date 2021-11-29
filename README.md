@@ -1,4 +1,4 @@
-h
+
 
 <!--
 **berylijncodes/berylijncodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,13 +35,15 @@ Hi there 👋, thanks for stopping by, I'm **Beryl**. I currently live in the Ne
  - ![enter image description here](https://img.shields.io/badge/-Aws-5dcede?&logo=Aws), CI/CD, UI testing;
  
  -   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 
  
  - Something new everyday! 
 
 ### :mortar_board: University:
 
 Studied Microbiology and Immunology at the University of Benin, Benin-city.
+
+## :speech_balloon: And I also...
+I love to network, connect and collaborate on open source projects, discuss techy and girlie stuff over a glass of tea/wine/beer? your choice 🙂. Let's talk!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
