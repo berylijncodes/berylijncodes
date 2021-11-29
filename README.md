@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
+![head.png](https://raw.githubusercontent.com/berylijncodes/FigureBed/master/img/readme-top.png)
 
  Hi there 👋, thanks for stopping by, I'm **Beryl**.
 
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/berylijncodes/FigureBed/master/img/octocat.gif" width="230">
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -47,6 +47,8 @@ Here are some ideas to get you started:
   
 
 <br/>
+
+<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/git.png?raw=true"/>
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
