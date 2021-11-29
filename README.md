@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![head.png](https://raw.githubusercontent.com/FigureBed/master/img/readme-top.png)
 
- Hi there 👋, thanks for stopping by, I'm **Beryl**. I currently live in the Netherlands. I am a full stack web developer trainee at ##[Integrify](https://www.integrify.io/en/). I have a background in Microbiology & Immunulogy. I am crazy In love with designs and creating awesome stuff for the web!
+ Hi there 👋, thanks for stopping by, I'm **Beryl**. I currently live in the Netherlands. I am a full stack web developer trainee at ## [Integrify](https://www.integrify.io/en/). I have a background in Microbiology & Immunulogy. I am crazy In love with designs and creating awesome stuff for the web!
 
 <img align='right' src="https://raw.githubusercontent.com/FigureBed/master/img/octocat.gif" width="230">
 
