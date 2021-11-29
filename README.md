@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/git.png?raw=true"/>
+
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
@@ -58,8 +58,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=berylijncodes&repo=sprintnote&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=covid-chatbot&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
+
 
 <a href="https://github.com/iCharlesZ">
   <img src="https://img.shields.io/github/followers/iCharlesZ">
