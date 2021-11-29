@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviomartin&theme=radical&title_color=8E2DE2&text_color=fff)
 
-<img src="https://github.com/saviomartin/berylijncodes/blob/master/assets/repo.png?raw=true">
+<img src="https://github.com/berylijncodes/berylijncodes/blob/master/assets/repo.png?raw=true">
 
 
 
@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 
 
 
-<!-- <a href="https://github.com/berylijncodes">
+<a href="https://github.com/berylijncodes">
   <img src="https://img.shields.io/github/followers/berylijncodes">
-</a> -->
+</a> 
 <a href="https://github.com/berylijncodes">
    <img src="https://komarev.com/ghpvc/?username=berylijncodes">
 </a>
