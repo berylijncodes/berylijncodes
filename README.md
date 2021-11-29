@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
  Hi there 👋, thanks for stopping by, I'm **Beryl**.
 
-<img align='right' src="https://raw.githubusercontent.com/berylijncodes/FigureBed/master/img/octocat.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/FigureBed/master/img/octocat.gif" width="230">
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
