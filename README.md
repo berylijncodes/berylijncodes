@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/berylijncodes">
+<!-- <a href="https://github.com/berylijncodes">
   <img src="https://img.shields.io/github/followers/berylijncodes">
-</a>
+</a> -->
 <a href="https://github.com/berylijncodes">
    <img src="https://komarev.com/ghpvc/?username=berylijncodes">
 </a>
