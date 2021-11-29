@@ -52,13 +52,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berylijncodes&theme=radical&title_color=8E2DE2&text_color=fff)
 
-
-
-
-
-
-
-
 <br/>
 
 
@@ -73,6 +66,14 @@ Here are some ideas to get you started:
 
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
----
+<i>Follow me:</i><br>
+
+<a href="https://www.linkedin.com/in/beryl-ilenwabor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+
+
+</div>
 
 ⭐️ From [@berylijncodes](https://github.com/berylijncodes)
