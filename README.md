@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviomartin&theme=radical&title_color=8E2DE2&text_color=fff)
 
-<img src="https://github.com/berylijncodes/berylijncodes/blob/master/assets/repo.png?raw=true">
+
 
 
 
