@@ -71,8 +71,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/beryl-ilenwabor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/berylilenwabor" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/beryl.obasuyi" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231877F2.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://twitter.com/Berylijn_codes" target="_blank"><img src="https://img.shields.io/badge/twitter-%231ED760.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Spotify"></a>
+<a href="https://twitter.com/Berylijn_codes" target="_blank"><img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Spotify"></a>
 
 <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=%2Ftwitter.com%2F">
 </div>
