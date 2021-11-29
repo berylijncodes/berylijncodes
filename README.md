@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![head.png](https://raw.githubusercontent.com/berylijncodes/FigureBed/master/img/readme-top.png)
+![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
 
  Hi there 👋, thanks for stopping by, I'm **Beryl**.
 
