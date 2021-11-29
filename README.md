@@ -1,4 +1,4 @@
-### Hi there 👋
+h
 
 <!--
 **berylijncodes/berylijncodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,32 @@ Here are some ideas to get you started:
 -->
 ![head.png](https://raw.githubusercontent.com/FigureBed/master/img/readme-top.png)
 
-## Hi there 👋, thanks for stopping by, I'm **Beryl**. I currently live in the Netherlands. I am a full stack web developer trainee at [Integrify](https://www.integrify.io/en/). I have a background in Microbiology & Immunulogy. I am crazy In love with designs and creating awesome stuff for the web!
+Hi there 👋, thanks for stopping by, I'm **Beryl**. I currently live in the Netherlands. I am a full stack web developer trainee at [Integrify](https://www.integrify.io/en/). I have a background in Microbiology & Immunulogy. I am crazy In love with designs and creating awesome stuff for the web!
 
 <img align='right' src="https://raw.githubusercontent.com/FigureBed/master/img/octocat.gif" width="230">
+### :star: Some fun facts!
+- I have never seen Star Wars;
+ - I enjoy braiding my hair myself and I'm pretty goot at it 🤎: 
+ - I like to sew and I'm a foodie 🥘
+ 
+
+##  :calendar: I'm currently  ...
+
+### :bar_chart: trainee:
+
+ - At [Integrify](https://www.integrify.io/en/) as a Full stack web developer;
+
+ ### :books: Learning:
+ - ![enter image description here](https://img.shields.io/badge/-Aws-5dcede?&logo=Aws)  ![enter image description here](https://img.shields.io/badge/-Swift-964b09?&logo=swift), android animations, game development, CI/CD, UI testing;
+ 
+ -   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛢 &nbsp
+ 
+ - Something new everyday! 
+
+### :mortar_board: University:
+
+Studied Microbiology and Immunology at the University of Benin, Benin-city.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
