@@ -43,7 +43,7 @@ Hi there 👋, thanks for stopping by, I'm **Beryl**. I currently live in the Ne
 Studied Microbiology and Immunology at the University of Benin, Benin-city.
 
 ## :speech_balloon: And I also...
-I love to network, connect and collaborate on open source projects, discuss techy and girlie stuff over a glass of tea/wine/beer? your choice 🙂. Let's talk!
+❤️ to network, connect and collaborate on open source projects, discuss techy and girlie stuff over a glass of tea/wine/beer? your choice 🙂. Let's talk!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
