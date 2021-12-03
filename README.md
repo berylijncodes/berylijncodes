@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![head.png](https://raw.githubusercontent.com/FigureBed/master/img/readme-top.png)
+![head.png]()
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#5000ca" fill-opacity="1" d="M0,32L60,26.7C120,21,240,11,360,58.7C480,107,600,213,720,229.3C840,245,960,171,1080,165.3C1200,160,1320,224,1380,256L1440,288L1440,0L1380,0C1320,0,1200,0,1080,0C960,0,840,0,720,0C600,0,480,0,360,0C240,0,120,0,60,0L0,0Z"></path></svg>
 
 Hi there 👋, thanks for stopping by, I'm **Beryl**. I currently live in the Netherlands. I am a front end developer. I am crazy In love with designs and creating awesome stuff for the web!
 
