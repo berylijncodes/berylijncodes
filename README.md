@@ -92,6 +92,7 @@ Studied Microbiology and Immunology at the University of Benin, Benin-city.
 </a>
 
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#8e2de2" fill-opacity="0.9" d="M0,256L60,234.7C120,213,240,171,360,176C480,181,600,235,720,234.7C840,235,960,181,1080,165.3C1200,149,1320,171,1380,181.3L1440,192L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path></svg>
 
 <i>Follow me:</i><br>
 
