@@ -4,22 +4,26 @@ Frontend developer based in the Netherlands. I build for the web with React and 
 
 I care about clean code, good UX and shipping things that work. I'm currently at TravPro Mobile, where I led a migration to a shared component platform and build React features used across multiple client apps.
 
-`React` `TypeScript` `Next.js` `Ruby on Rails` `Node.js` `PostgreSQL` `PHP` `Docker`
+`React` `TypeScript` `Next.js` `Vue` `Ruby on Rails` `Laravel` `Node.js` `PostgreSQL` `Docker`
 
 ---
 
-## 🛠 Selected Projects
+## 🛠️ Selected Projects
 
 **💼 [Portfolio](https://berylijn.vercel.app)** · [Code](https://github.com/berylijncodes/portfolio)
+
 My personal portfolio site, currently being redesigned. I'm also adding a chatbot so visitors can ask questions about my work and experience.
-Stack: Next.js · TypeScript · Tailwind CSS · Framer Motion
-🚧 In progress: chatbot feature
+
+*Stack: Next.js · TypeScript · Tailwind CSS · Framer Motion*
+🚧 *In progress: chatbot feature*
 
 ---
 
-**✍️ [Safe to Say No](https://safetosayno.com)**
-A blog and content platform on boundaries, mindset and self-worth. Built with Next.js 15, Sanity CMS and TypeScript, deployed on Vercel with a custom design system and email signup.
-Stack: Next.js · Sanity · TypeScript · CSS Modules · Vercel
+**✍️ [Safe to Say No](https://safetosayno.com)** · [Code](https://github.com/berylijncodes/safetosayno-web)
+
+A blog and content platform on boundaries, mindset and self-worth. Built with Next.js 16, Sanity CMS and TypeScript, deployed on Vercel with a custom design system and email signup.
+
+*Stack: Next.js · Sanity · TypeScript · CSS Modules · Vercel*
 
 ---
 
