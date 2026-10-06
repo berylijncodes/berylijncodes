@@ -10,9 +10,10 @@ I care about clean code, good UX and shipping things that work. I'm currently at
 
 ## 🛠 Selected Projects
 
-**💼 [Portfolio](https://berylijn.vercel.app)**
-My personal portfolio site.
+**💼 [Portfolio](https://berylijn.vercel.app)** · [Code](https://github.com/berylijncodes/portfolio)
+My personal portfolio site, currently being redesigned. I'm also adding a chatbot so visitors can ask questions about my work and experience.
 Stack: Next.js · TypeScript · Tailwind CSS · Framer Motion
+🚧 In progress: chatbot feature
 
 ---
 
