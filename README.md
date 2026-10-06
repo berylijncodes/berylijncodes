@@ -1,34 +1,30 @@
 # Hi, I'm Beryl 👋
 
-Full-stack web developer based in the Netherlands — building for the web with React, TypeScript, and Ruby on Rails.
+Frontend developer based in the Netherlands. I build for the web with React and TypeScript, and I also have full-stack experience in Ruby on Rails.
 
-I care about clean code, good UX, and shipping things that actually work. I'm crazy in love with design and creating awesome stuff for the web ❤️
+I care about clean code, good UX and shipping things that work. I'm currently at TravPro Mobile, where I led a migration to a shared component platform and build React features used across multiple client apps.
 
-Currently working at TravPro Mobile, where I've been leading platform migrations and building React-based features used across multiple client apps.
-
-`React` `TypeScript` `Ruby on Rails` `Next.js` `Node.js` `PostgreSQL` `Python` `Docker`
+`React` `TypeScript` `Next.js` `Ruby on Rails` `Node.js` `PostgreSQL` `PHP` `Docker`
 
 ---
 
-## 🛠 What I'm working on
+## 🛠 Selected Projects
 
-### 🌍 Geocoding App
-A Python CLI app that resolves latitude/longitude to city names via the OpenWeather Geocoding API. Results are cached in a local SQLite database to avoid redundant API calls. Includes a full test suite and uses a class-based architecture.
-
-**Stack:** Python · SQLite · REST API · Unit testing
+**💼 [Portfolio](https://berylijn.vercel.app)**
+My personal portfolio site.
+Stack: Next.js · TypeScript · Tailwind CSS · Framer Motion
 
 ---
 
-### ✍️ Safe to Say No
-A personal blog and content platform built with Next.js 15 and Sanity CMS, focused on boundaries, mindset, and self-worth. A personal project currently in development, deployed on Vercel with a custom design system.
-
-**Stack:** Next.js · Sanity CMS · TypeScript · CSS Modules · Vercel
+**✍️ [Safe to Say No](https://safetosayno.com)**
+A blog and content platform on boundaries, mindset and self-worth. Built with Next.js 15, Sanity CMS and TypeScript, deployed on Vercel with a custom design system and email signup.
+Stack: Next.js · Sanity · TypeScript · CSS Modules · Vercel
 
 ---
 
 ## 🎓 Background
 
-I made a deliberate career pivot from biomedical science (MSc Immunology) into tech — which means I bring a researcher's mindset to problem solving: methodical, detail-oriented, and always asking why.
+I moved from biomedical science (MSc Immunology) into tech. That gives me a researcher's habits: methodical, detail-oriented, and always asking why.
 
 ---
 
